@@ -1,0 +1,17 @@
+{
+  "name": "Object Factory",
+  "short_name": "Object Factory",
+  "description": "Interactive intro Java lessons with step-through memory diagrams and typing practice.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ECEEEA",
+  "theme_color": "#1E4F8F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
